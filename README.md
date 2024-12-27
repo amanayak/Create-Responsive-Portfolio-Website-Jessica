@@ -1,5 +1,5 @@
 # 🔥 Responsive Portfolio Website Olivia
-## [Live Preview](https://amanayak.github.io/Create-Responsive-Portfolio-Website-Jessica)
+## [Live Preview](https://create-responsive-portfolio-website-jessica.vercel.app/)
 ### 🔥 Responsive Portfolio Website
 
 - Responsive Portfolio Website Using HTML CSS & JavaScript
